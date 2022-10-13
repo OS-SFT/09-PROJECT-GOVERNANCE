@@ -20,3 +20,5 @@ The Governance Committee shall periodically review and agree governance standard
    - [GitHub UI integrations](https://github.com/scottrigby/dco-gh-ui)
    - [Chrome](https://chrome.google.com/webstore/detail/dco-github-ui/onhgmjhnaeipfgacbglaphlmllkpoijo)
    - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/scott-rigby/?src=search)
+
+Source: [OS-Climate Contributing Guidance](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/CONTRIBUTING.md)
