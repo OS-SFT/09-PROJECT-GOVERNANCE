@@ -11,7 +11,7 @@
 
 The Governance Committee shall periodically review and agree governance standards.
 
-## Guidance: Example of Governance by OS-Climate
+## Example of Governance: OS-Climate
 
 1. [Licence for initial commit: Apache 2.0](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/LICENSE)
 2. [Licence for contributing: DCO](https://developercertificate.org/)
