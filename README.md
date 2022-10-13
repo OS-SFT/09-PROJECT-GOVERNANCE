@@ -7,3 +7,16 @@
 ```diff
 - Under development
 ```
+## OS-SFT is exploring adopting a governance framework aligned with that of OS-Climate
+
+The Governance Committee shall periodically review and agree governance standards.
+
+## Guidance: OS-Climate follows the following Standards
+
+1. [Licence for initial Commit: Apache 2.0](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/LICENSE)
+2. [Licence for contributing: DCO](https://developercertificate.org/)
+2. Examples for DCO process:
+   - [DCO command line tool](https://github.com/coderanger/dco)
+   - [GitHub UI integrations](https://github.com/scottrigby/dco-gh-ui)
+   - [Chrome](https://chrome.google.com/webstore/detail/dco-github-ui/onhgmjhnaeipfgacbglaphlmllkpoijo)
+   - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/scott-rigby/?src=search)
