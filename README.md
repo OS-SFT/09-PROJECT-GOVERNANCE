@@ -7,7 +7,7 @@
 ```diff
 - Under development
 ```
-## OS-SFT is exploring adopting a governance framework aligned with Prevailing Best Practice
+## OS-SFT: Adopting Prevailing Best Practice Contributing Governance
 
 The Governance Committee shall periodically review and agree governance standards.
 
