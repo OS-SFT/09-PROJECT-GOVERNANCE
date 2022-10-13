@@ -7,11 +7,11 @@
 ```diff
 - Under development
 ```
-## OS-SFT is exploring adopting a governance framework aligned with that of OS-Climate
+## OS-SFT is exploring adopting a governance framework aligned with Prevailing Best Practice
 
 The Governance Committee shall periodically review and agree governance standards.
 
-## Guidance: OS-Climate follows the following Standards
+## Guidance: Examle of Governance by OS-Climate
 
 1. [Licence for initial Commit: Apache 2.0](https://github.com/os-climate/OS-Climate-Community-Hub/blob/main/LICENSE)
 2. [Licence for contributing: DCO](https://developercertificate.org/)
